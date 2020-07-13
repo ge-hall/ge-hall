@@ -19,7 +19,7 @@
 - 💬 Ask me about anything you might think I can help out with.
 - 📫 How to reach me: ge-hall@integrant.io
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My High School had only 2 computers ( Apple II )
 
 <!--
 **ge-hall/ge-hall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
