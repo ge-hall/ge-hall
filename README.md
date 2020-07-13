@@ -17,6 +17,10 @@
   
 - 🤔 I’m looking for help with ... Noting current but I might open source my ETL Platform core in 2020.
 - 💬 Ask me about anything you might think I can help out with.
+    - Guitar
+    - Electronics IoT
+    - Rubics Cubes
+    - Electric Skateboards
 - 📫 How to reach me: ge-hall@integrant.io
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My High School had only 2 computers ( Apple II )
