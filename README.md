@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Introspect DataStream
     - an ETL platform written in Python backend with 
     - a basic CLI for admin tasks, and 
     - Advanced CLI using prompt_toolkit and an
